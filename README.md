@@ -1,2 +1,14 @@
-# search
-:mag: Custom search engines for IE, Firefox, and Chrome.
+# Custom search engines for IE, Firefox, and Chrome
+
+  - [IPFS get from hash](http://ready.to/search/en/?sna=ipfs&prf=https%3A%2F%2Fipfs.io%2Fipfs%2F&des=IPFS%20get%20from%20hash&img=iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB5UlEQVQ4jYWTz24SURjFz3fnUgYYxBEIFppYd/6ZxPgSriRdNE0qhm1jYozxCQhPYLozbm2ssWliw870MaARNxoLCIWOIh3+3rnXBVpKZ9qe9T2/+52THFJKwU/ZrQ+WcsUmQJK49rL0dP3A7x2dB6xs7ySIUTGcSm3o100OIgxtWzhHrTdQqrC3vmb7AlY/lfjYcZ6FE8li5GbqBtP4HFgKAafV7PQ7ncKCYbzdXXksTgHZd+8fLVyLvY5mMve4rvtG+i8xGODkZ6M86nZflfK5fT6lu7tKCONS59lrJsKSrrsDwOQAYKQXwfUQ7K9V6KYJYzENxr0RThoNDH//QjSzhEAkAgBg0yYIoXgcifsWiDF0KhX0221IISCFQL99hE6lDNI0JC0LoXgcIAIAzH3DNA3RzBLCiST+HP5A9/s3AIBumojfuQstGPTEYX4ZtWAQsVvLIMZAmobY8m1fs+eCOXIgACOdBkCePq68YCY6zeqVmgGcZhPueHw564zEaASn2ZoBiGi1Vzs8EMPh1ebBAL1arUyM1k4BpXzus5LywXH1y4tevW5LV3iMUgj06jX7uFp9DqiHpXxuH/Ad08cEGCtGUqkNOZnwfyVOxyRVYe/JBWM6r+zWtqVcdxOAJM4vnPNfz7bNiERy3ycAAAAASUVORK5CYII=&in=utf&ou=ono&mod=pn)
+  - [Python 2 documentation search](http://ready.to/search/en/?sna=python2&prf=https%3A%2F%2Fdocs.python.org%2F2%2Fsearch.html%3Fcheck_keywords%3Dyes%26amp%3Barea%3Ddefault%26amp%3Bq%3D&des=Python%202%20documentation%20search&img=iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVQ4jY2TPWtVQRRF9zwuKawkWFhJDEFErLRREFGxiREUUphCxI/GQvAHhCBilSJgbakgxEZInTISi5AqID4EQTBFihQWD5HctSzuS7jvRtSBA3OGvc7sM5wpatrrwvzKqeiLyKXIcYVQb0dWiyx8XLq73db30l36JvGDshnpFaiKnCjyUFjuyqvDBTiqnAz1eDSxTiSBRKa68j844F3kSHQr8krZC0RpinUdXJxfGVOXItcjvUBK69YiPVu5n28sBR4X2IjcqdSFyJOWzZEYgSUFxhqHXA4sVpG5UbgNjPSfyFbg2MEZ3KyUidKClb0Cm5FBtA1/eXZt431keQgnMl41cL0v+nVl8vvs4vT6rciZA2EjPhe4H6gOWoRUsf4WmRwerC5Orz+K3m6BaVke3cNOL7LS6nM3crrZ2wT7cQhO9G0VeS5MDUd3EOwKtxoXrWJKdC1xvnT/Qvozn8LQBSTUryMM8x85v/b0r5MonX71XvBs9Ks6989RLtA/9HAwSF3vFNj9n7/wIPAy0A8MlJ+RCfVqdLYr/w2MrcXBUrSzewAAAABJRU5ErkJggg==&in=utf&ou=ono&mod=pn)
+  - [Python 3 documentation search](http://ready.to/search/en/?sna=python3&prf=https%3A%2F%2Fdocs.python.org%2F3%2Fsearch.html%3Fcheck_keywords%3Dyes%26amp%3Barea%3Ddefault%26amp%3Bq%3D&des=Python%203%20documentation%20search&img=iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVQ4jY2TPWtVQRRF9zwuKawkWFhJDEFErLRREFGxiREUUphCxI/GQvAHhCBilSJgbakgxEZInTISi5AqID4EQTBFihQWD5HctSzuS7jvRtSBA3OGvc7sM5wpatrrwvzKqeiLyKXIcYVQb0dWiyx8XLq73db30l36JvGDshnpFaiKnCjyUFjuyqvDBTiqnAz1eDSxTiSBRKa68j844F3kSHQr8krZC0RpinUdXJxfGVOXItcjvUBK69YiPVu5n28sBR4X2IjcqdSFyJOWzZEYgSUFxhqHXA4sVpG5UbgNjPSfyFbg2MEZ3KyUidKClb0Cm5FBtA1/eXZt431keQgnMl41cL0v+nVl8vvs4vT6rciZA2EjPhe4H6gOWoRUsf4WmRwerC5Orz+K3m6BaVke3cNOL7LS6nM3crrZ2wT7cQhO9G0VeS5MDUd3EOwKtxoXrWJKdC1xvnT/Qvozn8LQBSTUryMM8x85v/b0r5MonX71XvBs9Ks6989RLtA/9HAwSF3vFNj9n7/wIPAy0A8MlJ+RCfVqdLYr/w2MrcXBUrSzewAAAABJRU5ErkJggg==&in=utf&ou=ono&mod=pn)
+  
+  # Credits
+  
+  All OpenSearch plug-ins made with [Ready2Search](http://ready.to/search/en/).
+  
+  # License
+  
+  CC0
+  
