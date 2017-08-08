@@ -6,13 +6,13 @@
   
 # FAQ
   
-  - [How does one change the search keyword in Firefox?](https://stackoverflow.com/q/30309207/1582182) 
+  - [How does one change the search keyword in Firefox?](https://stackoverflow.com/q/30309207/1582182)
+  - [Where can I find more search plugins?](http://mycroftproject.com)
   
 # Credits
   
-All OpenSearch plug-ins made with [Ready2Search](http://ready.to/search/en/).
+All OpenSearch plugins made with [Ready2Search](http://ready.to/search/en/).
   
 # License
   
 CC0
-  
