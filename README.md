@@ -13,6 +13,7 @@
   
   - [How does one change the search keyword in Firefox?](https://stackoverflow.com/q/30309207/1582182)
   - [Where can I find more search plugins?](http://mycroftproject.com)
+  - [Where can I find search plugins for Vim vixen?](https://gist.github.com/aureooms/2dccc418b67b6a9db23de62dc6e4e073)
   
 # Credits
   
